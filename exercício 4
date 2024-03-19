@@ -1,0 +1,42 @@
+ var base = parseFloat(prompt("Informe a base"));
+ var altura = parseFloat(prompt("Qual é Altura"));
+ var resultado = (base * altura);
+
+     alert('o resultado é: ' + resultado)
+
+
+  var lado = parseFloat(prompt('adicione o lado do quadrado'))
+  var quadrado = lado * lado
+
+     alert ('a área do quadrado é: ' + quadrado) 
+
+ 
+
+ var baseMaior = parseFloat(prompt('digite a base MAIOR:'));
+ var baseMenor = parseFloat(prompt('digite a base MENOR: '));
+ var h = parseFloat(prompt('adicione a ALTURA: '));
+ var trapezio = (baseMaior + baseMenor) * h /2;
+
+     alert ('a área do trapézio é: ' + trapezio)
+
+
+
+ var base = parseFloat(prompt("Informe a base"));
+ var altura = parseFloat(prompt("Qual é Altura"));
+ var resultado = (base * altura);
+
+     alert('o resultado é: ' + resultado)
+
+ 
+  var base = parseFloat(prompt('Digite a base: '));
+  var altura = parseFloat(prompt('Digite a altura'));
+  var triangulo = base * altura /2;
+
+     alert ('a área do triangulo é ' + triangulo)
+
+
+  var pi = 3.14;
+  var raio = parseFloat(prompt('adicione o raio: '))
+  var circulo = raio * raio * pi;
+
+    alert ('O resultado é: ' + circulo)
