@@ -1,0 +1,4 @@
+    var nome = prompt("seu nome")
+    var idade = prompt("sua idade")
+    alert(nome + ", " +"idade" + " " + idade),{
+    }
